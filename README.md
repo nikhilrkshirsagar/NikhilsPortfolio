@@ -1,7 +1,5 @@
-# Nikhil Kshirsagar
 ![image](https://github.com/user-attachments/assets/6e038f2b-d6c5-4b4f-bdfd-4c0562481620)
-
-Welcome to my personal portfolio! 
+# Nikhil Kshirsagar
 
 ## About Me
 I am Nikhil Kshirsagar, an esteemed IT professional boasting over 13 years of expertise 
