@@ -50,6 +50,86 @@ complete the tapestry of joy in my life.
 •	Integrated Spark with AWS S3 and Redshift to load and store processed data efficiently, optimizing storage costs and query performance.<br />
 •	Led the migration of legacy ETL workflows to Spark-based processing, reducing runtime by 40% and improving error handling and logging.<br />
 
+***Principal Database Engineer (2017 - 2020)*** <br />
+•	Achieved 50% of performance improvement via ETL designs for external vendors to EHBs (HDW) using azure data factory.<br />
+•	Research and perform proof of concepts for new technologies and identify its application under project boundaries.<br />
+•	Perform design reviews and provide solutions for both transactions, reporting and data warehousing system. <br />
+•	Automated various processes using azure services like, azure automation, azure blob storage, azure logic apps.<br />
+
+***Senior Database Engineer (2015 - 2017)*** <br />
+•	Requirement analysis, evaluation and documenting the enhancements and findings for the Grants Management System of Health Resources and Service Administration (HRSA) Electronic Handbook (EHBs).<br />
+•	Designed multiple data pipelines with the expertise on ETL and ELT processes with the help of various tools like SQL Server, Microsoft Azure cloud services, snowflake, SSIS, Azure data factory and Pentaho Data Integration (Kettle/ Spoon).<br />
+
+***Database Engineer (2013 - 2015),*** <br />
+***Associate Database Engineer (2011 - 2013)*** <br />
+•	Provided database development, data analytics and database administration support.
+
+***Company: The Shams Group (May 2011 – September 2011)*** <br />
+           - ***Intern – IT Support*** <br />
+•	Provided Database Administration, development and infrastructure Support.<br />
+•	Performed SQL Server and Data Migration.<br />
+•	Resolved SQL and Operating System related issues for live servers / Production servers.<br />
+•	Performed infrastructure management.<br />
+•	Developed stored Procedures / Functions / Views / Triggers.<br />
+•	Monitored SQL Server Agent jobs and E-Page ticketing system (TSG’s Client error handling system).<br />
+•	Performed troubleshooting and resolved SSIS and SQL server job errors.<br />
+
+***Company: Center of Information Technology and Management (CITM) at The University of Texas at Dallas. (January 2011 to May 2011)*** <br />
+           - ***Database Analyst / Developer.*** <br />
+•	Gathered requirements and accordingly designed the database system for IMOP (Interactive Method of Procedure) using SQL server 2005. <br />
+•	Developed ETL processes using various SQL tools like SSIS and SSMS. <br />
+•	Developed T-SQL scripts, Stored procedures, triggers, functions, views and generated ad-hoc reports. <br />
+•	Supported Performance tuning and Database management. <br />
+
+***Company: Clover InfoTech Private Limited, India (March 2008 to June 2009)*** <br />
+           - ***Microsoft SQL Server Database Administrator.*** <br />
+•	Created and tuned Stored Procedures, Views, Functions, Triggers and T-SQL programs. <br />
+•	Performed SQL Server migrations and provided backup restore strategy per client requirement. <br />
+•	Provided live production Support to clients for MS SQL Server 2000, MS SQL Server 2005. <br />
+•	Provided database administration services like Installations, Configuration and Maintenance of SQL server environments, service pack upgrades. <br />
+•	Managed DTS / SSIS Packages, Logins, Users, Database Roles and SQL server security management. <br />
+•	Managed SQL server agent jobs, maintenance plans and windows jobs,    
+	Supported index management in offload hours. <br />
+•	Implemented and monitored disaster recovery strategies like Log-shipping and Replication. <br /> 
+•	Worked on Data analysis and Reporting using SSRS and MS Excel tools like PIVOT, VLookup etc. <br />
+•	Performed File group management, space management and Infrastructure analysis. <br />
+
+### EDUCATIONAL SUMMARY: <br />
+**M.S. –** Management Information Systems, The University of Texas at Dallas (2011). <br />
+**B.E. –** Electronics Engineering, University of Mumbai (2007). <br />
+
+### SKILLS SUMMARY:
+**Generic skills:**
+•	Leadership and Team Management. <br />
+•	Strategic Planning and Execution. <br />
+•	Project Management. <br />
+•	Stakeholder Engagement. <br />
+•	Budgeting and Financial Management. <br />
+•	Process Optimization. <br />
+•	Relationship Management. <br />
+•	Communication and Presentation Skills. <br />
+
+**Databases:** Microsoft SQL Server, Snowflake, MS Access, PostgreSQL (PGAdmin). <br />
+**Languages Known:** SQL, Powershell, Python. <br />
+**Other Tools:** ERWIN, Visual Studio, Microsoft Visio, Tortoise SVN, MS Office, BIDS, SQL Server Profiler, JAMA Contour, Pentaho Data Integration (Keetle / Spoon), Oracle SQL developer, PGAdmin, Azure data factory, Azure runbooks, Azure automation, Azure logic apps. <br />
+**Others:** Entity Relationship Diagram, Relational Modelling, Normalization, Object Oriented concepts, Spreadsheet Modeling, JIRA, Octopus. <br />
+
+### BADGES:
+1.	Snowflake : Hands-On Essentials: Data Warehousing Workshop. <br />
+
+## Projects
+### AI Based – PCHPAnalytics. <br />
+
+**PROBLEM STATEMENT**. <br />
+The government had funded specialized hospitals for HIV transmission prevention. According to reports from Primary Care HIV Prevention (PCHP) grantees, the allocated funds were not fully utilized. 
+The Health Resources and Services Administration (HRSA) expressed willingness to support the grantees. <br />
+
+**DELIVERY IDEA**. <br />
+Received detailed reports from all grantees outlining the barriers to fund utilization. Employed the AI's NER model to categorize these barriers and delivered the analytics to HRSA. <br />
+
+![image](https://github.com/user-attachments/assets/8bbedfa6-3228-48fb-be51-2d39a3aff52d)
+
+![image](https://github.com/user-attachments/assets/a4391006-661c-43f2-87e6-6eacb37bd41e)
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/nikhil-kshirsagar-765ba419/) or Email: nikhil.rkshirsagar@gmail.com or Phone number: (972)-839-9027
